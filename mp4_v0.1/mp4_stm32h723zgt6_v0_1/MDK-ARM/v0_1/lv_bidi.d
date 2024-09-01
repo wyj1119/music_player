@@ -1,0 +1,17 @@
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\lv_bidi.c
+v0_1\lv_bidi.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\lv_bidi.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+v0_1\lv_bidi.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+v0_1\lv_bidi.o: ./LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+v0_1\lv_bidi.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\lv_txt.h
+v0_1\lv_bidi.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\lv_area.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\../font/lv_font.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\../font/lv_symbol_def.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\lv_printf.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\lv_types.h
+v0_1\lv_bidi.o: LVGL\GUI\lvgl\src\misc\../misc/lv_mem.h
+v0_1\lv_bidi.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

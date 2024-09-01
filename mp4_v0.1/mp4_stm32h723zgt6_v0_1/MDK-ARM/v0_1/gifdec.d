@@ -1,0 +1,16 @@
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\gifdec.c
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\gifdec.h
+v0_1\gifdec.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_fs.h
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+v0_1\gifdec.o: ./LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+v0_1\gifdec.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_log.h
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_types.h
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_mem.h
+v0_1\gifdec.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+v0_1\gifdec.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_color.h
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_assert.h
+v0_1\gifdec.o: LVGL\GUI\lvgl\src\extra\libs\gif\../../../misc/lv_math.h

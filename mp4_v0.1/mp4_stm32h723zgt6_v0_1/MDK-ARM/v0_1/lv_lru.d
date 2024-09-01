@@ -1,0 +1,13 @@
+v0_1\lv_lru.o: LVGL\GUI\lvgl\src\misc\lv_lru.c
+v0_1\lv_lru.o: LVGL\GUI\lvgl\src\misc\lv_lru.h
+v0_1\lv_lru.o: LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+v0_1\lv_lru.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+v0_1\lv_lru.o: LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+v0_1\lv_lru.o: ./LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+v0_1\lv_lru.o: LVGL\GUI\lvgl\src\misc\lv_types.h
+v0_1\lv_lru.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+v0_1\lv_lru.o: LVGL\GUI\lvgl\src\misc\lv_math.h
+v0_1\lv_lru.o: LVGL\GUI\lvgl\src\misc\lv_mem.h
+v0_1\lv_lru.o: C:\Users\wyj1119\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+v0_1\lv_lru.o: LVGL\GUI\lvgl\src\misc\lv_assert.h
+v0_1\lv_lru.o: LVGL\GUI\lvgl\src\misc\lv_log.h
